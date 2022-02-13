@@ -2,7 +2,7 @@
 ## A Graphics Project Bulit Using OpenGL API
 
 ## Problem Motivation
-- The simulation of the images can’t be captured by an actual camera. By using OpenGL, we view the 3d objects and the 3d space that helps to project and capture the frame from any angle in the solar system.Problem Motivation
+- The simulation of the images can’t be captured by an actual camera. By using OpenGL, we view the 3d objects and the 3d space that helps to project and capture the frame from any angle in the solar system.
 
 ## Problem Statement
 - To write a program in OpenGL that will accurately animate the Solar System which can’t be captured by an actual camera precisely.
